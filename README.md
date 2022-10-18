@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/SH2oTBg64h7YpcYVvu/giphy.gif' title='Video Walkthrough of my instagram-clone' width='' alt='Video Walkthrough' />
-<img src='https://gfycat.com/realisticillfatedhalicore' title='Video Walkthrough of my instagram-clone' width='' alt='Video Walkthrough' />
+<img src='https://thumbs.gfycat.com/RealisticIllfatedHalicore-size_restricted.gif' title='Video Walkthrough of my instagram-clone' width='' alt='Video Walkthrough' />
 
 # instagram-clone
 
