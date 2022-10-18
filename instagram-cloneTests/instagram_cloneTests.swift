@@ -2,7 +2,7 @@
 //  instagram_cloneTests.swift
 //  instagram-cloneTests
 //
-//  Created by Phantom on 10/1/22.
+//  Created by Angelo Alies on 10/1/22.
 //
 
 import XCTest

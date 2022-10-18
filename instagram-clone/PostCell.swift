@@ -2,7 +2,7 @@
 //  PostCell.swift
 //  instagram-clone
 //
-//  Created by Angelo Alies on 10/10/22.
+//  Created by Angelo Alies on 10/2/22.
 //
 
 import UIKit

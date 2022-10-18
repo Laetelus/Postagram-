@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  instagram-clone
 //
-//  Created by Angelo Alies on 10/10/22.
+//  Created by Angelo Alies on 10/1/22.
 //
 
 import UIKit
@@ -22,6 +22,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                     $0.server = "https://parseapi.back4app.com"
             }
             Parse.initialize(with: parseConfig)
+        
+        
         
 
         return true
